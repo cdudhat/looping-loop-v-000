@@ -1,5 +1,8 @@
 def looping
-	#your code here
+	loop do
+		puts "I love coding!"
+	end
 end
 
+looping
 #call your method here
